@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "461573191836",
+    "project_id": "jmcrent-2dcf1",
+    "storage_bucket": "jmcrent-2dcf1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461573191836:android:a08dedf0c973f7aad85559",
+        "android_client_info": {
+          "package_name": "com.example.goolemapuse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461573191836-kgf846ks6l3dqvol0ag94v5q7as89gbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goolemapuse",
+            "certificate_hash": "22c85908962d2c15c5bfd81d15f7f924c504aae6"
+          }
+        },
+        {
+          "client_id": "461573191836-bev6q6sm02g986a9ca1ipj7kvn7sasej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbwxEmX6XmvQxWStf-wcCP2TUQnX7zY_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461573191836-bev6q6sm02g986a9ca1ipj7kvn7sasej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "461573191836-j5mpei88smv3k8ct68j2t77igdi0lde6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.goolemapuse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
